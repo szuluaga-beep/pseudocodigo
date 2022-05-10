@@ -1,6 +1,6 @@
 Algoritmo exampe
 	
 	Definir edad Como Entero
-	edad=6
+	edad=8
 	Mostrar edad
 FinAlgoritmo
